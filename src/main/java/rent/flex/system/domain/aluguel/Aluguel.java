@@ -10,7 +10,7 @@ import rent.flex.system.domain.cliente.Cliente;
 
 import java.time.LocalDate;
 
-@Table(name = "alugues")
+@Table(name = "alugueis")
 @Entity(name = "Aluguel")
 @Getter
 @NoArgsConstructor
